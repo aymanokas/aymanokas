@@ -1,4 +1,4 @@
-# 👋 Hello World! I'm Aymane
+# 👋 Hello ! I'm Aymane
 
 ## 🚀 About Me
 
