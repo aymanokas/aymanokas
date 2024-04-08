@@ -22,6 +22,6 @@ I'm a passionate Frontend & Mobile Senior Developer with a knack for crafting im
 
 ## 📱 Let's Connect
 
-- [LinkedIn]([https://linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/aymane-kasbaoui/))
+- [LinkedIn]([https://linkedin.com/in/aymane-kasbaoui])
 
 Feel free to reach out if you want to collaborate on a project or just chat about tech and innovation. I'm always open to new opportunities and exciting challenges!
